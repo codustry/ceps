@@ -34,5 +34,5 @@ Although the swarm of IoT/Edge devices should never be ignored.
 
 Automation is the ace. Let’s do more of this.
 
-Data is the joker. Always pay respect.
+Data & Legal is the jokers. Always pay respect.
 
