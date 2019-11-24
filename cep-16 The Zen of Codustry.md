@@ -1,3 +1,9 @@
+Title: The Zen of Codustry 
+Author: Nutchanon Ninyawee
+Status: Draft
+Type: None
+Created: None
+
 # The Zen of Codustry 
 
 No job is better than dirty job.
@@ -8,17 +14,15 @@ Engineer is better than MBA.
 
 Systematic solution is better than linear solution.
 
-User successful is the new king. 
+User's wish is the new king. 
 
-UX/UI are his sons.
+Digital wellbeings, UX/UI are his sons.
 
 Maintainability is the queen. 
 
-CI/CD, docs are her daughters.
+CI/CD, docs are some of her daughters.
 
 Security is the jack. 
-
-Always put some system traps.
 
 Communication is a dark art of success. 
 
