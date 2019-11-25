@@ -37,7 +37,7 @@ class Applicant:
         pass
 
     def add_profile(self, url):
-        sources_known = ["github", "gitlab", "bitbucket", "stackoverflow", "dev.to", "kaggle", "medium", "behance", ]
+        sources_known = ["github", "gitlab", "bitbucket", "stackoverflow", "dev.to", "kaggle", "medium", "behance", "dribbble"]
         pass
     
     def upload_cv(self, pdf):
