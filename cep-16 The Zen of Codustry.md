@@ -38,6 +38,10 @@ Individual must be selected/unselected because of his/her karma solely.
 
 Not race, sex, and other non-senses.
 
+Anonymous individuals are accepted here.
+
+See you, codeatsecj3ofewyaeywlig32wpcxa436j4anaiqfbbd2e7tkoqzgfyd.onion
+
 Use longitude to adjust wake up time. 
 
 Use latitude to customize climate.
