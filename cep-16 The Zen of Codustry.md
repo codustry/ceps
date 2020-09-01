@@ -10,7 +10,7 @@ No job is better than dirty job.
 
 Public contribute is better than private contribute.
 
-Engineer is better than MBA.
+Transparent is better than privacy.
 
 Systematic solution is better than linear solution.
 
@@ -30,7 +30,7 @@ Use longitude to adjust wake up time.
 
 Use latitude to customize climate.
 
-Anyway Client mission come first.
+Anyway mission come first.
 
 Cloud services and infrastructures beats bare metal servers.
 
