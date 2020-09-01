@@ -1,8 +1,10 @@
-Title: The Zen of Codustry 
-Author: Nutchanon Ninyawee
-Status: Draft
-Type: None
-Created: None
+| Title   | The Zen of Codustry |
+| ------- | ------------------- |
+| Author  | Nutchanon Ninyawee  |
+| Status  | Draft               |
+| Type    | None                |
+| Created | None                |
+
 
 # The Zen of Codustry 
 
