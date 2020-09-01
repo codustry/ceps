@@ -34,9 +34,7 @@ Security is the jack.
 
 We are like the Avengers, of digital world.
 
-We are a group of diverse talents and backgrounds.
-
-Individual must be selected/unselected because of his/her karma solely.
+Individual is selected/unselected because of his/her karma solely.
 
 Not race, sex, and other non-senses.
 
