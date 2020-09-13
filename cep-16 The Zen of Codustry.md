@@ -18,6 +18,8 @@ Gradient is better than binary.
 
 Systematic solution is better than linear solution.
 
+Fork is better than copy.
+
 User's end goals is better than user's requirements. 
 
 The best default should always pair with great alternatives.
