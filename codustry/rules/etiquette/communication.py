@@ -12,4 +12,3 @@ def reply(craftsman: AllCraftsmanTypes):
             craftsman.inactive = True
             make_inactive(craftsman)
 
-    

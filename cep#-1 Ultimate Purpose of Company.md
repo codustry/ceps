@@ -1,10 +1,12 @@
-Title: Ultimate Purpose of Codustry
-Author: Nutchanon Ninyawee
-Status: Draft
-Type: None
-Created: 24 Nov 2019
+| Title   | The Ultimate Purpose of Codustry |
+| ------- | ------------------- |
+| Author  | Nutchanon Ninyawee  |
+| Status  | Draft               |
+| Type    | None                |
+| Created | 24 Nov 2019                |
 
-# CEP -1 -- Ultimate Purpose of Codustry
+
+# CEP -1 -- The Ultimate Purpose of Codustry (cep negative one)
 
 we code & maintain millennium projects.
 
