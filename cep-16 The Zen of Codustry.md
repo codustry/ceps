@@ -34,7 +34,7 @@ Maintainability is the queen.
 
 Security is the jack. 
 
-We are like the Avengers, of digital world.
+We are like [the Avengers](https://twitter.com/fringetracker/status/991796881767436288/photo/1), of digital world.
 
 Individual is selected/unselected because of his/her karma solely.
 
