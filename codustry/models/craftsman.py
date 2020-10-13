@@ -23,12 +23,15 @@ class CraftsmanBase(BaseModel):
     authorize_level: AuthorizeLevel
 
     availibility: Dict
-    devices: Dict
-
-    karma: List[Dict]
+    devices: List[Dict]
     declaration: List[str]
     skils: List[Dict]
 
+    karma: List[Dict]
+    contribution: List[Dict]
+    ownership: List[Dict]
+
+    salary_rate: Dict
 
 
 class AnonymousCraftsman(CraftsmanBase):
