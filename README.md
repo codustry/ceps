@@ -9,9 +9,8 @@ Codustry Enhancement Proposals
 4. It is highly executable, dynamic, very immediate. 
 5. Ready for [mass surveillance](https://en.wikipedia.org/wiki/Mass_surveillance).
 
-> "Poets often use MANY WORDS to say a Simple Thing." 
-> "It takes thought and time and rhyme to make a poem sing"
+> "Poets often use MANY WORDS to say a Simple Thing. It takes thought and time and rhyme to make a poem sing"
+>
 > - [Fly me to the moon](https://www.youtube.com/watch?v=xBSuxSQQkFE)
 
-> I wonder why "Law ⚖ also often use MANY WORDS to say a Simple Thing."
-> "It takes thought and time and LAW DEGREE to make my right A THING."
+> I wonder why "Law ⚖ also often use MANY WORDS to say a Simple Thing. It takes thought and time and LAW DEGREE to make my right A THING😅."
