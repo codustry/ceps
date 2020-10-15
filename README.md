@@ -10,4 +10,5 @@ Codustry Enhancement Proposals
 5. Ready for [mass surveillance](https://en.wikipedia.org/wiki/Mass_surveillance).
 
 > "Poets often use MANY WORDS to say a Simple Thing." - [Fly me to the moon](https://www.youtube.com/watch?v=xBSuxSQQkFE)
+
 > I wonder why "Law ⚖ also often use MANY WORDS to say a Simple Thing."
