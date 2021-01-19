@@ -42,7 +42,7 @@ Not race, sex, and other non-senses.
 
 Anonymous individuals are accepted here.
 
-See you, @ [codustryitdebuo4sxrpguxymkk5xcanhq5wntwbryymw2luommftaqd.onion](codustryitdebuo4sxrpguxymkk5xcanhq5wntwbryymw2luommftaqd.onion)
+See you, @ [codustryitdebuo4sxrpguxymkk5xcanhq5wntwbryymw2luommftaqd.onion](http://codustryitdebuo4sxrpguxymkk5xcanhq5wntwbryymw2luommftaqd.onion)
 
 Use longitude to adjust wake up time. 
 
